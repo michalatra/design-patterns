@@ -1,0 +1,19 @@
+# ninja log v5
+28	623	6735644305855911	CMakeFiles/fasade_project.dir/Engine.cpp.obj	1662105767755582
+40	654	6735644306195869	CMakeFiles/fasade_project.dir/EngineThermometer.cpp.obj	7f270e32efeae43d
+53	660	6735644306225924	CMakeFiles/fasade_project.dir/FuelInjector.cpp.obj	7d52630698b96940
+34	667	6735644306185868	CMakeFiles/fasade_project.dir/Speedometer.cpp.obj	54e89285f17bc752
+48	744	6735644307125892	CMakeFiles/fasade_project.dir/Gearbox.cpp.obj	fbe18f69c88fcba5
+654	1224	6735644312346601	CMakeFiles/fasade_project.dir/CoolerFan.cpp.obj	5bbcc44061b34081
+667	1322	6735644313176589	CMakeFiles/fasade_project.dir/CoolerPump.cpp.obj	9b8d7fe811bcc361
+0	1551	6735644315926552	CMakeFiles/fasade_project.dir/main.cpp.obj	7278a471a660eaee
+625	1826	6735644317606615	CMakeFiles/fasade_project.dir/Cooler.cpp.obj	4bf8d76865293e55
+27	680	6735662200173138	CMakeFiles/fasade_project.dir/Gearbox.cpp.obj	fbe18f69c88fcba5
+9	399	6736198097086529	CMakeFiles/fasade_project.dir/Gearbox.cpp.obj	fbe18f69c88fcba5
+33	993	6736198103206409	CMakeFiles/fasade_project.dir/VCU.cpp.obj	bb7d0f7b5aa0746f
+5	179	6736198363311202	CMakeFiles/fasade_project.dir/Speedometer.cpp.obj	54e89285f17bc752
+180	412	6736198365506867	fasade_project.exe	80359a2ffcdce48c
+5	731	6736199951984009	CMakeFiles/fasade_project.dir/main.cpp.obj	7278a471a660eaee
+732	1061	6736199955259997	fasade_project.exe	80359a2ffcdce48c
+5	881	6736202031063012	CMakeFiles/fasade_project.dir/main.cpp.obj	7278a471a660eaee
+882	1139	6736202033572249	fasade_project.exe	80359a2ffcdce48c
