@@ -1,0 +1,17 @@
+# ninja log v5
+60	898	6738364942977544	CMakeFiles/factory_method_project.dir/MessageFactory.cpp.obj	74ed5c97b8fa7b37
+73	1567	6738364950788865	CMakeFiles/factory_method_project.dir/TextMessageFactory.cpp.obj	1e800d66f5086f87
+85	1571	6738364950941032	CMakeFiles/factory_method_project.dir/FileMessageFactory.cpp.obj	c33490175f662ec1
+79	1574	6738364951148627	CMakeFiles/factory_method_project.dir/PictureMessageFactory.cpp.obj	5fa9e88af3f4cb9
+900	1610	6738364951635667	CMakeFiles/factory_method_project.dir/Message.cpp.obj	e98e10b3eeb03904
+68	2003	6738364955508113	CMakeFiles/factory_method_project.dir/main.cpp.obj	9506e620fb1911
+4	986	6738365464819470	CMakeFiles/factory_method_project.dir/MessageFactory.cpp.obj	74ed5c97b8fa7b37
+66	1178	6738365467260616	CMakeFiles/factory_method_project.dir/FileMessageFactory.cpp.obj	c33490175f662ec1
+49	1235	6738365467814239	CMakeFiles/factory_method_project.dir/TextMessageFactory.cpp.obj	1e800d66f5086f87
+35	1241	6738365467562595	CMakeFiles/factory_method_project.dir/Chat.cpp.obj	78bc51c4f34edf84
+44	1337	6738365468606976	CMakeFiles/factory_method_project.dir/PictureMessageFactory.cpp.obj	5fa9e88af3f4cb9
+40	1656	6738365472056260	CMakeFiles/factory_method_project.dir/main.cpp.obj	9506e620fb1911
+1235	2208	6738365477835538	CMakeFiles/factory_method_project.dir/PictureMessage.cpp.obj	9772afe99b3ecea1
+987	2215	6738365477887040	CMakeFiles/factory_method_project.dir/TextMessage.cpp.obj	315afa3ffbc966af
+1178	2283	6738365478655731	CMakeFiles/factory_method_project.dir/FileMessage.cpp.obj	197847bd2b345b95
+2283	2611	6738365481857097	factory_method_project.exe	1936d80358385e07

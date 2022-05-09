@@ -67,6 +67,48 @@ build CMakeFiles/factory_method_project.dir/MessageFactory.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\factory_method_project.dir
   OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
 
+build CMakeFiles/factory_method_project.dir/Message.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/Message.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\Message.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
+build CMakeFiles/factory_method_project.dir/TextMessageFactory.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/TextMessageFactory.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\TextMessageFactory.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
+build CMakeFiles/factory_method_project.dir/FileMessageFactory.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/FileMessageFactory.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\FileMessageFactory.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
+build CMakeFiles/factory_method_project.dir/PictureMessageFactory.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/PictureMessageFactory.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\PictureMessageFactory.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
+build CMakeFiles/factory_method_project.dir/TextMessage.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/TextMessage.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\TextMessage.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
+build CMakeFiles/factory_method_project.dir/FileMessage.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/FileMessage.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\FileMessage.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
+build CMakeFiles/factory_method_project.dir/PictureMessage.cpp.obj: CXX_COMPILER__factory_method_project_Debug C$:/Users/micha/Documents/Studia/IO/Cwiczenia/design-patterns/factory_method/factory_method_project/PictureMessage.cpp || cmake_object_order_depends_target_factory_method_project
+  DEP_FILE = CMakeFiles\factory_method_project.dir\PictureMessage.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\factory_method_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\factory_method_project.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target factory_method_project
@@ -75,7 +117,7 @@ build CMakeFiles/factory_method_project.dir/MessageFactory.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable factory_method_project.exe
 
-build factory_method_project.exe: CXX_EXECUTABLE_LINKER__factory_method_project_Debug CMakeFiles/factory_method_project.dir/main.cpp.obj CMakeFiles/factory_method_project.dir/Chat.cpp.obj CMakeFiles/factory_method_project.dir/MessageFactory.cpp.obj
+build factory_method_project.exe: CXX_EXECUTABLE_LINKER__factory_method_project_Debug CMakeFiles/factory_method_project.dir/main.cpp.obj CMakeFiles/factory_method_project.dir/Chat.cpp.obj CMakeFiles/factory_method_project.dir/MessageFactory.cpp.obj CMakeFiles/factory_method_project.dir/Message.cpp.obj CMakeFiles/factory_method_project.dir/TextMessageFactory.cpp.obj CMakeFiles/factory_method_project.dir/FileMessageFactory.cpp.obj CMakeFiles/factory_method_project.dir/PictureMessageFactory.cpp.obj CMakeFiles/factory_method_project.dir/TextMessage.cpp.obj CMakeFiles/factory_method_project.dir/FileMessage.cpp.obj CMakeFiles/factory_method_project.dir/PictureMessage.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\factory_method_project.dir

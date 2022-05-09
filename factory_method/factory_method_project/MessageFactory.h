@@ -6,8 +6,11 @@
 #define FACTORY_METHOD_PROJECT_MESSAGEFACTORY_H
 
 
-class MessageFactory {
+#include "Message.h"
 
+class MessageFactory {
+public:
+    virtual Message* createMessage() = 0;
 };
 
 
