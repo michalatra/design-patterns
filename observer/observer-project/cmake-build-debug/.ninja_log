@@ -1,0 +1,8 @@
+# ninja log v5
+50	752	6737931521095209	CMakeFiles/observer_project.dir/SelfDrivingCar.cpp.obj	21c26e992780d2be
+33	168	6737931515314297	CMakeFiles/observer_project.dir/Observer.cpp.obj	7c6c62c171db9e75
+27	692	6737931520540817	CMakeFiles/observer_project.dir/main.cpp.obj	3c39510cbc084285
+4	669	6737933080137202	CMakeFiles/observer_project.dir/TrafficLights.cpp.obj	69ebc90c14049c08
+1	404	6737954098515340	build.ninja	3cd040b85c6c553a
+4	305	6737931516674759	CMakeFiles/observer_project.dir/EventEmitter.cpp.obj	1f84c0a46e3c2228
+670	886	6737933082197531	observer_project.exe	d578e7e2fed9a979

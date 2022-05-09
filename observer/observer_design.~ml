@@ -394,12 +394,6 @@
 <XPD:REF name="Type_">W3pmRwi8yUGobL4XUxYjXgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#TypedParameters" type="integer">5</XPD:ATTR>
-<XPD:REF name="TypedParameters[0]">a2zRe9DppUi5hBTxe02sMwAA</XPD:REF>
-<XPD:REF name="TypedParameters[1]">zUM+zp9ekE+yiIiHawybNQAA</XPD:REF>
-<XPD:REF name="TypedParameters[2]">yJue14dhK0m4Hmj8UgtVfQAA</XPD:REF>
-<XPD:REF name="TypedParameters[3]">nqBq4KUMT0KZfybaKJQaVgAA</XPD:REF>
-<XPD:REF name="TypedParameters[4]">6BV65LQ1x0ai0mFUQWENVQAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">drx15Iq4V0CPater2B/eugAA</XPD:REF>
 <XPD:REF name="Associations[1]">BZcGTD4ozkmYpNkf6l3GCgAA</XPD:REF>
@@ -424,32 +418,14 @@
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="AdCU0UgVdUSqyRWCJ0o5gwAA">
 <XPD:ATTR name="Name" type="string">subscribe</XPD:ATTR>
 <XPD:REF name="Owner">W3pmRwi8yUGobL4XUxYjXgAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="a2zRe9DppUi5hBTxe02sMwAA">
-<XPD:ATTR name="Name" type="string">o</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">AdCU0UgVdUSqyRWCJ0o5gwAA</XPD:REF>
-<XPD:REF name="Type_">30yGWOA1uki0kjBjQJ0CGwAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="eo7bkMoCxEWk2IsWdBQFUQAA">
 <XPD:ATTR name="Name" type="string">unsubscribe</XPD:ATTR>
 <XPD:REF name="Owner">W3pmRwi8yUGobL4XUxYjXgAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="zUM+zp9ekE+yiIiHawybNQAA">
-<XPD:ATTR name="Name" type="string">o</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">eo7bkMoCxEWk2IsWdBQFUQAA</XPD:REF>
-<XPD:REF name="Type_">30yGWOA1uki0kjBjQJ0CGwAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[2]" type="UMLOperation" guid="VpyIVojpj0Gi+zwyo52D9AAA">
 <XPD:ATTR name="Name" type="string">notify</XPD:ATTR>
 <XPD:REF name="Owner">W3pmRwi8yUGobL4XUxYjXgAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="yJue14dhK0m4Hmj8UgtVfQAA">
-<XPD:ATTR name="Name" type="string">o</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">VpyIVojpj0Gi+zwyo52D9AAA</XPD:REF>
-<XPD:REF name="Type_">30yGWOA1uki0kjBjQJ0CGwAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#TypedParameters" type="integer">2</XPD:ATTR>
 <XPD:REF name="TypedParameters[0]" pathname="subject">NzDEfLR73UWPfW2172FEVQAA</XPD:REF>
@@ -490,28 +466,16 @@
 <XPD:REF name="Owner">4No1P123okeelzrKGhp3IgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="H6V1Vs0aGkGjak+lbNqRTgAA">
-<XPD:ATTR name="Name" type="string">changeLight</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">setCurretnLight</XPD:ATTR>
 <XPD:REF name="Owner">4No1P123okeelzrKGhp3IgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[2]" type="UMLOperation" guid="OoyzC9e/9UK+aImSoC3ZCQAA">
 <XPD:ATTR name="Name" type="string">subscribe</XPD:ATTR>
 <XPD:REF name="Owner">4No1P123okeelzrKGhp3IgAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="nqBq4KUMT0KZfybaKJQaVgAA">
-<XPD:ATTR name="Name" type="string">o</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">OoyzC9e/9UK+aImSoC3ZCQAA</XPD:REF>
-<XPD:REF name="Type_">30yGWOA1uki0kjBjQJ0CGwAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[3]" type="UMLOperation" guid="EC9dtEu6SkqyVPQav6xxmwAA">
 <XPD:ATTR name="Name" type="string">unsubscribe</XPD:ATTR>
 <XPD:REF name="Owner">4No1P123okeelzrKGhp3IgAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="6BV65LQ1x0ai0mFUQWENVQAA">
-<XPD:ATTR name="Name" type="string">o</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">EC9dtEu6SkqyVPQav6xxmwAA</XPD:REF>
-<XPD:REF name="Type_">30yGWOA1uki0kjBjQJ0CGwAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[4]" type="UMLOperation" guid="bh7U/Dz1+ka+wQxFctugOwAA">
 <XPD:ATTR name="Name" type="string">notify</XPD:ATTR>
@@ -525,7 +489,7 @@
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="vx9KeBWnmEWnG4wlig03PwAA">
 <XPD:ATTR name="Name" type="string">lightColor</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">string</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">Enum</XPD:ATTR>
 <XPD:REF name="Owner">4No1P123okeelzrKGhp3IgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="sWcK0Fy9Xkm3RaDTDKKh/wAA">
@@ -569,7 +533,7 @@
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="0UFDAphXbkiJW+aESHnf4wAA">
 <XPD:ATTR name="Name" type="string">currentLightColor</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">stirng</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">Enum</XPD:ATTR>
 <XPD:REF name="Owner">oEFuFWZ6PEy7nvAhEB8qOAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
