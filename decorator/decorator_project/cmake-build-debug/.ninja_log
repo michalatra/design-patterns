@@ -1,0 +1,17 @@
+# ninja log v5
+2	382	6739168924461092	build.ninja	8790aa35b160cbba
+7	475	6739168930353834	CMakeFiles/decorator_project.dir/ICamera.cpp.obj	6eaf122f79bfec8c
+4	481	6739168930433827	CMakeFiles/decorator_project.dir/Camera.cpp.obj	71a4117900ff63c6
+0	490	6739168930518658	CMakeFiles/decorator_project.dir/ContrastDecorator.cpp.obj	b57463a032afe9fb
+10	509	6739168930674937	CMakeFiles/decorator_project.dir/CameraDecorator.cpp.obj	8e16df2682850b31
+18	515	6739168930831181	CMakeFiles/decorator_project.dir/Picture.cpp.obj	255eeb8724f59012
+23	548	6739168930831181	CMakeFiles/decorator_project.dir/BrightnessDecorator.cpp.obj	855786861dda6939
+27	562	6739168931147754	CMakeFiles/decorator_project.dir/SaturationDecorator.cpp.obj	781856531eed7b98
+14	667	6739168932331170	CMakeFiles/decorator_project.dir/main.cpp.obj	f325642699d01b78
+667	1058	6739168936112346	decorator_project.exe	27155b394d21c257
+22	414	6739184850359436	CMakeFiles/decorator_project.dir/SaturationDecorator.cpp.obj	781856531eed7b98
+25	469	6739184850873482	CMakeFiles/decorator_project.dir/CameraDecorator.cpp.obj	8e16df2682850b31
+33	472	6739184850873482	CMakeFiles/decorator_project.dir/BrightnessDecorator.cpp.obj	855786861dda6939
+29	474	6739184850873482	CMakeFiles/decorator_project.dir/ContrastDecorator.cpp.obj	b57463a032afe9fb
+4	597	6739184852132039	CMakeFiles/decorator_project.dir/main.cpp.obj	f325642699d01b78
+598	793	6739184854061970	decorator_project.exe	27155b394d21c257

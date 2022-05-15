@@ -1,17 +1,9 @@
 # ninja log v5
-7	1692	6737990436005614	build.ninja	58a0e3f7089ef7ed
+1	762	6739155239281011	build.ninja	58a0e3f7089ef7ed
 3	1382	6737961877262771	CMakeFiles/singleton_project.dir/User.cpp.obj	c86d2cbb47025b0e
-36	1734	6737961880721482	CMakeFiles/singleton_project.dir/main.cpp.obj	39f0201115eb07d1
-10	1275	6737980542331824	CMakeFiles/singleton_project.dir/DBConnector.cpp.obj	6a12458df419aec5
-1276	1628	6737980545851557	singleton_project.exe	698a0a4f8ad1734
-1	762	6737990436005614	build.ninja	58a0e3f7089ef7ed
-14	1561	6737990453559500	CMakeFiles/singleton_project.dir/main.cpp.obj	39f0201115eb07d1
-24	1603	6737990454089511	CMakeFiles/singleton_project.dir/SomeFancyApp.cpp.obj	336db4fac12c28f0
-30	1628	6737990454499522	CMakeFiles/singleton_project.dir/RegisterHandler.cpp.obj	690feaa54fd51e7d
-9	1640	6737990454569261	CMakeFiles/singleton_project.dir/LoginHandler.cpp.obj	5581e8068659ee79
 29	848	6737992049100101	CMakeFiles/singleton_project.dir/SomeFancyApp.cpp.obj	336db4fac12c28f0
-41	864	6737992049260137	CMakeFiles/singleton_project.dir/DBConnector.cpp.obj	6a12458df419aec5
-46	866	6737992049280076	CMakeFiles/singleton_project.dir/main.cpp.obj	39f0201115eb07d1
 6	919	6737992049830259	CMakeFiles/singleton_project.dir/LoginHandler.cpp.obj	5581e8068659ee79
+46	866	6737992049280076	CMakeFiles/singleton_project.dir/main.cpp.obj	39f0201115eb07d1
 32	967	6737992050320415	CMakeFiles/singleton_project.dir/RegisterHandler.cpp.obj	690feaa54fd51e7d
+41	864	6737992049260137	CMakeFiles/singleton_project.dir/DBConnector.cpp.obj	6a12458df419aec5
 967	1187	6737992052451032	singleton_project.exe	8619ca80b0dd2707
