@@ -1,0 +1,3 @@
+/home/michalatra/Dokumenty/IO/CW_12/adapter/cmake-build-debug/CMakeFiles/adapter.dir
+/home/michalatra/Dokumenty/IO/CW_12/adapter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michalatra/Dokumenty/IO/CW_12/adapter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
