@@ -1,0 +1,4 @@
+/home/michalatra/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/michalatra/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/ninja/linux/ninja -G Ninja -S /home/michalatra/Dokumenty/IO/CW_12/adapter -B /home/michalatra/Dokumenty/IO/CW_12/adapter/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/michalatra/Dokumenty/IO/CW_12/adapter/cmake-build-debug

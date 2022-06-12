@@ -1,0 +1,14 @@
+# ninja log v5
+0	1152	1654882775908476272	CMakeFiles/adapter.dir/main.cpp.o	ba3223ffb6b569c
+0	1172	1654882775932476322	CMakeFiles/adapter.dir/User.cpp.o	f7489cda70ad2711
+1	396	1654882796784518281	CMakeFiles/adapter.dir/DbAdapter.cpp.o	1a4266ae729721ac
+1	513	1654882796904518511	CMakeFiles/adapter.dir/RedisAdapter.cpp.o	89788f9e710689ff
+1	630	1654882797020518733	CMakeFiles/adapter.dir/SystemRejestracji.cpp.o	9f34a2fdfb6b276
+630	654	1654882797044518779	CMakeFiles/adapter.dir/RedisORM.cpp.o	b30a815029090fab
+654	676	1654882797064518818	CMakeFiles/adapter.dir/PostgresORM.cpp.o	e0e55f4c736ec41e
+676	702	1654882797092518871	CMakeFiles/adapter.dir/OracleORM.cpp.o	5c40ab49b2bf1dad
+396	862	1654882797252519176	CMakeFiles/adapter.dir/PostgresAdapter.cpp.o	5ce0af776b5b7a48
+514	959	1654882797348519360	CMakeFiles/adapter.dir/OracleAdapter.cpp.o	295bf3a50d63d0b
+959	1069	1654882797460519573	adapter	3e01c83a9f25a775
+1	442	1654882881144648914	CMakeFiles/adapter.dir/SystemRejestracji.cpp.o	9f34a2fdfb6b276
+442	564	1654882881264649058	adapter	3e01c83a9f25a775
