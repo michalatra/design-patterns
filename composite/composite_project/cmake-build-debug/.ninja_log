@@ -1,0 +1,9 @@
+# ninja log v5
+22	210	6745221753324288	CMakeFiles/composite_project.dir/Component.cpp.obj	c182f68633694611
+32	324	6745221754514324	CMakeFiles/composite_project.dir/Div.cpp.obj	a37e37e96336cd8d
+36	327	6745221754534286	CMakeFiles/composite_project.dir/WebsiteCreator.cpp.obj	d52bff64350b1826
+19	487	6745221756134297	CMakeFiles/composite_project.dir/TextBox.cpp.obj	ee0e22248c602c69
+25	516	6745221756454265	CMakeFiles/composite_project.dir/Button.cpp.obj	7f697888f042b929
+29	542	6745221756714305	CMakeFiles/composite_project.dir/Paragraph.cpp.obj	ab789c240f104889
+0	582	6745221757114275	CMakeFiles/composite_project.dir/main.cpp.obj	e5439d0c6b826f26
+582	885	6745221760094279	composite_project.exe	f78ce33c858b256

@@ -1,0 +1,21 @@
+# ninja log v5
+57	2093	6745178155079952	CMakeFiles/abstract_factory_project.dir/Navbar.cpp.obj	40be85c39c5b0f07
+163	2108	6745178155079952	CMakeFiles/abstract_factory_project.dir/ManagePanelFactory.cpp.obj	605b77689b53f247
+179	2149	6745178155871463	CMakeFiles/abstract_factory_project.dir/AdministratorPanelFactory.cpp.obj	1505826490a357e4
+30	2253	6745178157376758	CMakeFiles/abstract_factory_project.dir/Menu.cpp.obj	8f5fee6b767b91e5
+151	2288	6745178157952992	CMakeFiles/abstract_factory_project.dir/AdministratorMenu.cpp.obj	ff23199f54306ee2
+37	2295	6745178157873004	CMakeFiles/abstract_factory_project.dir/SearchBox.cpp.obj	3da5a931196542e1
+65	2355	6745178157952992	CMakeFiles/abstract_factory_project.dir/Sidebar.cpp.obj	8c702830f62c8e1a
+43	2378	6745178158753000	CMakeFiles/abstract_factory_project.dir/AdministratorNavbar.cpp.obj	f8116e99bd368918
+137	2402	6745178159233311	CMakeFiles/abstract_factory_project.dir/ClientSidebar.cpp.obj	92e3b844da39fc78
+121	2404	6745178158961550	CMakeFiles/abstract_factory_project.dir/AdministratorSidebar.cpp.obj	3c44e972348c2bc9
+50	2501	6745178159957294	CMakeFiles/abstract_factory_project.dir/ClientNavbar.cpp.obj	21a12159993e0716
+1	2511	6745178160273562	CMakeFiles/abstract_factory_project.dir/main.cpp.obj	4229682b20003b56
+128	2515	6745178160353207	CMakeFiles/abstract_factory_project.dir/ClientMenu.cpp.obj	bff27c6938efd3a7
+171	2546	6745178160911964	CMakeFiles/abstract_factory_project.dir/AdministratorSearchBox.cpp.obj	35ba512f1457908e
+2098	3063	6745178166065218	CMakeFiles/abstract_factory_project.dir/ClientPanelFactory.cpp.obj	7fdd11f4a9f6d858
+2150	3249	6745178167973721	CMakeFiles/abstract_factory_project.dir/SomeFancyAppWithUI.cpp.obj	6df7af0f567b6796
+2108	3262	6745178168099650	CMakeFiles/abstract_factory_project.dir/ClientSearchBox.cpp.obj	a99987dc2d1a55a5
+3262	3624	6745178171655174	abstract_factory_project.exe	f2f8c7bcb7c4dd24
+8	758	6745178459271101	CMakeFiles/abstract_factory_project.dir/ClientNavbar.cpp.obj	21a12159993e0716
+759	1036	6745178461970922	abstract_factory_project.exe	f2f8c7bcb7c4dd24

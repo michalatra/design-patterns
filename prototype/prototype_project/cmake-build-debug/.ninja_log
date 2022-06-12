@@ -1,0 +1,13 @@
+# ninja log v5
+43	271	6745194859286418	CMakeFiles/prototype_project.dir/Prototype.cpp.obj	bb038a911b7c1b43
+55	1241	6745194869034533	CMakeFiles/prototype_project.dir/ChatBubble.cpp.obj	9475dff8d9a473d9
+48	1274	6745194869274582	CMakeFiles/prototype_project.dir/Chat.cpp.obj	61b6f19860923028
+1	1366	6745194870281107	CMakeFiles/prototype_project.dir/main.cpp.obj	ca1521ae89c357b
+1366	1761	6745194874191215	prototype_project.exe	c1ed47c556cf440b
+44	1060	6745195194775421	CMakeFiles/prototype_project.dir/Chat.cpp.obj	61b6f19860923028
+8	1129	6745195195460592	CMakeFiles/prototype_project.dir/main.cpp.obj	ca1521ae89c357b
+1129	1524	6745195199351711	prototype_project.exe	c1ed47c556cf440b
+41	1232	6745196231382202	CMakeFiles/prototype_project.dir/Chat.cpp.obj	61b6f19860923028
+47	1241	6745196231504468	CMakeFiles/prototype_project.dir/ChatBubble.cpp.obj	9475dff8d9a473d9
+8	1365	6745196232721667	CMakeFiles/prototype_project.dir/main.cpp.obj	ca1521ae89c357b
+1365	1727	6745196236298183	prototype_project.exe	c1ed47c556cf440b

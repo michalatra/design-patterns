@@ -1,0 +1,18 @@
+//
+// Created by XPS-15 on 17.05.2022.
+//
+
+#ifndef ABSTRACT_FACTORY_PROJECT_NAVBAR_H
+#define ABSTRACT_FACTORY_PROJECT_NAVBAR_H
+
+
+#include <string>
+
+class Navbar {
+public:
+    virtual void renderNavbar() = 0;
+    virtual void handleLinkClick(std::string link) = 0;
+};
+
+
+#endif //ABSTRACT_FACTORY_PROJECT_NAVBAR_H

@@ -1,0 +1,3 @@
+C:/Users/XPS-15/Documents/Semestr IV/IO/design-patterns/composite/composite_project/cmake-build-debug/CMakeFiles/composite_project.dir
+C:/Users/XPS-15/Documents/Semestr IV/IO/design-patterns/composite/composite_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/XPS-15/Documents/Semestr IV/IO/design-patterns/composite/composite_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
